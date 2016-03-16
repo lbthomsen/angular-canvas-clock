@@ -19,9 +19,8 @@ body {
     display: table-cell;
 }
 
-.clock_canvas {
-    width: 100%;
-    height: 100%;
+#clock_frame canvas {
+        background-color: #CCCCCC;
 }
 
 [ng\:cloak], [ng-cloak], [data-ng-cloak], .ng-cloak, .data-ng-cloak {

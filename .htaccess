@@ -49,11 +49,6 @@ FileETag None
 deny from all
 </Files>
 
-<Files nbproject/*>
-deny from all
-</Files>
-
-<Files .git/*>
-deny from all
-</Files>
+RewriteRule ^.git - [F]
+RewriteRule ^nbproject - [F]
 
