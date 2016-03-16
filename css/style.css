@@ -14,8 +14,8 @@ body {
 }
 
 #clock_frame {
-    width: 300px;
-    height: 300px;
+    width: 800px;
+    height: 800px;
     display: table-cell;
 }
 
