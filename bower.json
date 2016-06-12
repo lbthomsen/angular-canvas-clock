@@ -1,0 +1,20 @@
+{
+  "name": "clock",
+  "description": "Various Angular Clocks",
+  "main": "clock.js",
+  "authors": [
+    "Lars Boegild Thomsen <lth@cow.dk>"
+  ],
+  "license": "ISC",
+  "homepage": "https://clock.cow.dk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.6"
+  }
+}

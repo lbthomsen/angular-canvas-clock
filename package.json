@@ -1,0 +1,26 @@
+{
+  "name": "clock",
+  "version": "0.0.1",
+  "description": "Various Angular Clocks",
+  "main": "clock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbthomsen/clock.git"
+  },
+  "author": "Lars Boegild Thomsen <lth@cow.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbthomsen/clock/issues"
+  },
+  "homepage": "https://github.com/lbthomsen/clock#readme",
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bower-task": "^0.4.0"
+  }
+}
